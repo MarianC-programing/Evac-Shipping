@@ -24,3 +24,17 @@
 
 ## 📂 Estructura del repositorio
 
+EvacShipping/
+├── index.html
+├── styles/
+│ └── main.css
+├── scripts/
+│ └── app.js
+└── README.md
+
+## 🤝 Desarrolladores
+
+Proyecto desarrollado por un equipo de estudiantes de Ingeniería de Software como parte de un proyecto académico.
+---
+
+© 2025 | EvacShipping – Todos los derechos reservados
