@@ -17,7 +17,7 @@ export default function HomePage() {
     {
       id: 'basic',
       name: 'Plan Básico',
-      price: '$4.99',
+      price: '$2.99',
       unit: '/lb',
       description: 'Perfecto para usuarios ocasionales',
       features: [
@@ -45,7 +45,7 @@ export default function HomePage() {
     {
       id: 'business',
       name: 'Plan Empresa',
-      price: '$2.99',
+      price: '$4.99',
       unit: '/lb',
       description: 'Para necesidades comerciales',
       features: [
@@ -100,7 +100,7 @@ export default function HomePage() {
                 <Button 
                   size="lg" 
                   variant="outline" 
-                  className="border-white text-white hover:bg-white hover:text-primary"
+                  className="border-2 border-white text-white hover:bg-white hover:text-primary bg-transparent"
                 >
                   Rastrear Paquete
                 </Button>

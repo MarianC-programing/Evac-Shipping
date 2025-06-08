@@ -28,7 +28,7 @@ export default function PlansPage() {
     {
       id: 'basic',
       name: 'Plan Básico',
-      price: '$4.99',
+      price: '$2.99',
       unit: '/lb',
       description: 'Perfecto para usuarios ocasionales',
       features: [
@@ -59,7 +59,7 @@ export default function PlansPage() {
     {
       id: 'business',
       name: 'Plan Empresa',
-      price: '$2.99',
+      price: '$4.99',
       unit: '/lb',
       description: 'Para necesidades comerciales',
       features: [
